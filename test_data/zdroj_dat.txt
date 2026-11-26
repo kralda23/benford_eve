@@ -1,0 +1,2 @@
+https://data.everef.net/market-orders/ - market-orders-latest.v3.csv.bz2	19.78 MiB	20,742,979	2026-11-23 06:51:17 UTC
+Data jsem poté přefiltroval Powershellem na konkretní region "The Forge"(hlavní market ve hře), region_id = 10000002

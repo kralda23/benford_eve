@@ -1,0 +1,82 @@
+.popis {
+  max-width: 700px;
+  margin: 0 auto 20px auto;
+  padding: 0 20px;
+}
+ 
+.box {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  text-align: left;
+}
+ 
+.box h2 {
+  margin-top: 15px;
+}
+ 
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: var(--mono);
+  font-size: 13px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--code-bg);
+  color: var(--text-h);
+}
+ 
+button {
+  margin-top: 10px;
+  padding: 8px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  background: var(--accent);
+  color: white;
+  cursor: pointer;
+}
+ 
+button:hover {
+  opacity: 0.8;
+}
+ 
+select {
+  padding: 6px 10px;
+  font-size: 16px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+ 
+.chyba {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
+ 
+.graf {
+  margin: 20px 0;
+  background: white;
+  border-radius: 8px;
+  padding: 10px;
+}
+ 
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+ 
+th,
+td {
+  border: 1px solid var(--border);
+  padding: 6px 14px;
+  text-align: center;
+}
+ 
+th {
+  background: var(--accent-bg);
+  color: var(--text-h);
+}
+ 
